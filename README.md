@@ -1,2 +1,1 @@
-# bedarerne
-En enkel nettside for Studentrevyen
+# Klikk her for å se video av BEdårerne
